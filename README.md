@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustineDwayne
 - 👀 I’m interested in Web Development, Software Engineering, and UI/UX Design.
-- 🌱 I’m currently learning JavaScript, React.js, and Python.
+- 🌱 I’m currently learning Next.js.
 - 📫 Portfolio: https://jdportfolio-seven.vercel.app
 
 <!---
