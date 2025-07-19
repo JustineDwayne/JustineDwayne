@@ -38,7 +38,7 @@
 
 ### 📫 How to reach me
 
-- 💼 [LinkedIn]: https://www.linkedin.com/in/justine-dwayne-calma-65407a324  
+- 💼 LinkedIn: https://www.linkedin.com/in/justine-dwayne-calma-65407a324  
 - 📧 Email: calma.justinedwayne.11232003@gmail.com  
 - 🌐 Portfolio: jdportfolio-seven.vercel.app
 
