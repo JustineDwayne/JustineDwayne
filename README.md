@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justine Dwayne Calma</h1>
+<h1 align="center">Hi, I'm Justine Dwayne Calma</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🎓 I'm a fresh graduate in **Information Technology** (2025)
