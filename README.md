@@ -22,9 +22,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📘 Featured Projects
-- 🎮 **[Word Guess Game](https://github.com/JustineDwayne/word-guess)** – A classic game made with JavaScript and DOM manipulation
-- 🎧 **[Spotify Discography Searcher](#)** – Search artists and albums using Spotify API (WIP)
-- 🌐 **[Lil Peep Tribute Site](#)** – A Next.js project with merch CMS, discography, and Tailwind styling
+- 🎮 **[Word Guess Game](https://github.com/JustineDwayne/word-guess)** – A classic word guessing game made with React.js.
+- 🌐 **[wrAIter](https://github.com/JustineDwayne/wraiter)** – An AI Web Application that turns Reddit posts into creative content.
+- 🌐 **[Lil Peep Tribute Site](https://github.com/JustineDwayne/lilpeep-tribute)** – A Next.js project with merch CMS, discography, and Tailwind styling
 
 ### 📈 GitHub Stats
 
